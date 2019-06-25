@@ -1,0 +1,12 @@
+* {
+    background-color: #555753
+}
+
+body { 
+	font: 75% georgia, sans-serif;
+	line-height: 1.88889;
+	color: #FEF84E; 
+	background: #fff url(https://www.nationalgeographic.com/content/dam/animals/pictures/mammals/f/fossa/fossa_01.adapt.280.1.JPG) no-repeat bottom right; 
+	margin: 0; 
+	padding: 0;
+	}
